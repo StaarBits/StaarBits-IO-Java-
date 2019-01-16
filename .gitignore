@@ -1,5 +1,16 @@
 .gradle
 /build/
+# Folders which must be ignored
+.git/
+.gradle/
+.idea/
+out/
+test/
+resources/META-INF/
+
+# Files
+*.gradle
+*.gitignore
 
 # Ignore Gradle GUI config
 gradle-app.setting
